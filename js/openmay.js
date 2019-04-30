@@ -10,9 +10,9 @@ const featured = [
 const retail = [
     ['https://www.backyardcatenclosures.com.au/', './images/PNG/retail_backyard_kitten_palaces.png'],
     ['https://charlesandlee.com/', './images/PNG/retail_charles_and_lee.png'],
-    ['https://www.backyardchickencoops.com.au/', './images/PNG/retail_chicken_coops.png'],
+    ['https://www.backyardchickencoops.com.au/', './images/PNG/retail_Chicken_coops.png'],
     ['https://timbuk2.com.au/', './images/PNG/retail_timbuk2.png'],
-    ['https://tomsaustralia.com.au/', './images/PNG/retail_toms.png'],
+    ['https://tomsaustralia.com.au/', './images/PNG/retail_Toms.png'],
 ];
 
 const automotive = [
