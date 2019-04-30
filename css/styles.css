@@ -115,6 +115,14 @@ section {
 }
 
 @media screen and (max-width: 768px) {
+    .nav-link{
+        text-align: center;
+        margin: 5px;
+    }
+    #footer{
+        background-size: 100%;
+    }
+
     .text-center-mobile {
         text-align: center !important;
     }
