@@ -17,7 +17,7 @@ const retail = [
 
 const automotive = [
     ['http://autobahn.net.au/', './images/PNG/auto_autobahn.png'],
-    ['https://www.ultratune.com.au/', './images/PNG/auto_ultratune.png'],
+    ['https://www.ultratune.com.au/', './images/PNG/auto_UltraTune.png'],
     ['https://www.openpay.com.au/', './images/PNG/auto_generic.png']
 ];
 
