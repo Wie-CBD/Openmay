@@ -2,30 +2,30 @@
 // change these for the 
 
 const featured = [
-    ['#', './images/png/featured/featured_openmay.png'],
-    ['https://skinnytan.com.au', './images/png/featured/featured_retail_skinny_tan.png'],
-    ['https://tomsaustralia.com.au/', './images/png/featured/featured_retail_toms.png']
+    ['#', './images/PNG/Featured/Featured_Openmay.png'],
+    ['https://skinnytan.com.au', './images/PNG/Featured/featured_retail_skinny_tan.png'],
+    ['https://tomsaustralia.com.au/', './images/PNG/Featured/featured_retail_toms.png']
 ];
 
 const retail = [
-    ['https://www.backyardcatenclosures.com.au/', './images/png/retail_backyard_kitten_palaces.png'],
-    ['https://charlesandlee.com/', './images/png/retail_charles_and_lee.png'],
-    ['https://www.backyardchickencoops.com.au/', './images/png/retail_chicken_coops.png'],
-    ['https://timbuk2.com.au/', './images/png/retail_timbuk2.png'],
-    ['https://tomsaustralia.com.au/', './images/png/retail_toms.png'],
+    ['https://www.backyardcatenclosures.com.au/', './images/PNG/retail_backyard_kitten_palaces.png'],
+    ['https://charlesandlee.com/', './images/PNG/retail_charles_and_lee.png'],
+    ['https://www.backyardchickencoops.com.au/', './images/PNG/retail_chicken_coops.png'],
+    ['https://timbuk2.com.au/', './images/PNG/retail_timbuk2.png'],
+    ['https://tomsaustralia.com.au/', './images/PNG/retail_toms.png'],
 ];
 
 const automotive = [
-    ['http://autobahn.net.au/', './images/png/auto_UltraTune.png'],
-    ['https://www.ultratune.com.au/', './images/png/auto_UltraTune.png'],
-    ['https://www.ultratune.com.au/', './images/png/auto_UltraTune.png']
+    ['http://autobahn.net.au/', './images/PNG/auto_UltraTune.png'],
+    ['https://www.ultratune.com.au/', './images/PNG/auto_UltraTune.png'],
+    ['https://www.ultratune.com.au/', './images/PNG/auto_UltraTune.png']
 ];
 
 const home = [
-    ['https://ihealthsaunas.com.au/', './images/png/home_ihealth.png'],
-    ['https://bedsrus.com.au/', './images/png/home_bedsrus.png'],
-    ['https://www.lincraft.com.au/', './images/png/home_Lincraft.png'],
-    ['https://myhouse.com.au/', './images/png/home_MyHouse.png'],
+    ['https://ihealthsaunas.com.au/', './images/PNG/home_iHealth.png'],
+    ['https://bedsrus.com.au/', './images/PNG/home_bedsrus.png'],
+    ['https://www.lincraft.com.au/', './images/PNG/home_Lincraft.png'],
+    ['https://myhouse.com.au/', './images/PNG/home_MyHouse.png'],
 ]; 
  
 function createCarouselItems(parentElement, array){
