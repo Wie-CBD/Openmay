@@ -57,7 +57,7 @@ function createCarouselImages(parentElement, array) {
     array.forEach(element => {
         let child = document.createElement('div');
         let img = document.createElement('img');
-        let path = "./" + element[1];
+        let path = "/openmay/" + element[1];
         let link = document.createElement('a');
         if (element[0] !== null) {
             link.setAttribute('href', element[0]);
